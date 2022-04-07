@@ -11,3 +11,5 @@ spring data JPA 기본(기본 CRUD)
 postgresql 기본
 CommandLineRunner 사용
 
+@ControllerAdvise
+@ExceptionHandler
